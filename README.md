@@ -1,6 +1,6 @@
 # Prétraitement d'images médicales
 
-Ce dépôt contient le notebook de l'atelier 2 : prétraitement d'images médicales (Mme ATTIA).
+Ce dépôt contient le notebook de l'atelier 2 : prétraitement d'images médicales.
 
 ## Contenu
 
